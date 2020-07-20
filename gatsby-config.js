@@ -35,6 +35,7 @@ module.exports = {
       // },
     ],
   },
+  pathPrefix: '/blog',
   plugins: [
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
