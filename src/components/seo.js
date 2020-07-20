@@ -82,13 +82,8 @@ SEO.defaultProps = {
   meta: [],
   keywords: [
     'gatsby',
-    'minimal',
-    'starter',
-    'blog',
-    'theme',
-    'dark',
-    'light',
-    'personal site',
+    'hardware',
+    'coding',
   ],
 }
 
